@@ -1,0 +1,8 @@
+<component name="CopyrightManager">
+  <settings default="Dimaca">
+    <module2copyright>
+      <element module="Global" copyright="Dimaca" />
+      <element module="All" copyright="Dimaca" />
+    </module2copyright>
+  </settings>
+</component>
